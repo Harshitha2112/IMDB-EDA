@@ -59,6 +59,7 @@ These graphs help in understanding movie trends and patterns effectively.
 - Open the notebook
 - jupyter notebook IMDB.ipynb
 ### Run all cells
+```
 📁 Project Structure
 ├── IMDB.ipynb
 ├── IMDB-Movie-Data.csv
