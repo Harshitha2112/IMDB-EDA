@@ -64,7 +64,7 @@ These graphs help in understanding movie trends and patterns effectively.
 ├── IMDB.ipynb
 ├── IMDB-Movie-Data.csv
 └── README.md
-
+```
 ## 📌 Key Insights
 - Movies with higher ratings generally tend to generate higher revenue.
 - Certain years had significantly higher audience voting.
